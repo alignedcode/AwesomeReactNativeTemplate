@@ -29,7 +29,9 @@
     }
   },
   "rules": {
+    "global-require": "off",
     "react/react-in-jsx-scope": "off",
+    "unicorn/no-null": "off",
     "unicorn/prefer-query-selector": "off",
     "unicorn/prevent-abbreviations": "off",
     "@typescript-eslint/no-use-before-define": "off",
