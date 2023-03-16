@@ -21,7 +21,7 @@ project with Typescript, ESlint and Prettier configured in just a single command
 To create a new project based on this template, run:
 
 ```bash
-npx degit kirillkurko/AwesomeReactNativeTemplate MyApp
+npx degit alignedcode/AwesomeReactNativeTemplate MyApp
 ```
 
 That's it - you can now start with development!
