@@ -81,8 +81,8 @@ function App(): JSX.Element {
           }}
         >
           <Section title='Awesome React Native Template'>
-            Opinionated React Template with ESLint, Prettier and TypeScript
-            configured
+            Opinionated React Native Template with ESLint, Prettier and
+            TypeScript configured
           </Section>
           <Section title='Step One'>
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
