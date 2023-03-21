@@ -30,6 +30,7 @@
   },
   "rules": {
     "global-require": "off",
+    "unicorn/prefer-module": "off",
     "react/react-in-jsx-scope": "off",
     "unicorn/no-null": "off",
     "unicorn/prefer-query-selector": "off",
