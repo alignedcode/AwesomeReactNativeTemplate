@@ -22,5 +22,5 @@
     "noImplicitThis": true,
     "strictNullChecks": true
   },
-  "include": ["src", "App.tsx"],
+  "include": ["src", "App.tsx", "__tests__/App-test.tsx"],
 }
