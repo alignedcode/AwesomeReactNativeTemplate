@@ -16,7 +16,6 @@
     "react",
     "unicorn",
     "react-hooks",
-    "@typescript-eslint",
     "@typescript-eslint"
   ],
   "root": true,
