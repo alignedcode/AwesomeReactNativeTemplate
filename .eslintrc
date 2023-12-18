@@ -13,8 +13,10 @@
     "plugin:@typescript-eslint/recommended"
   ],
   "plugins": [
+    "jest",
     "react",
     "unicorn",
+    "jsx-a11y",
     "react-hooks",
     "@typescript-eslint"
   ],
